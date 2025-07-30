@@ -1,7 +1,7 @@
 # Projeto com Read Me
 Um projeto de teste com uma arquivo README 🛰️
 
-[<img src="./Animaçãoteste2.gif" alt="gif teste do projeto readme">](https://google.com)
+[<img src="./Animaçãoteste2.gif" alt="gif teste do projeto readme">]
 
 ## Tecnologias utilizadas
 
